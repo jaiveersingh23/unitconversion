@@ -6,7 +6,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-image: url('https://picsum.photos/1920/1080?random');
+    background-image: url('https://loremflickr.com/320/240');
     background-size: cover;
     background-position: center;
   }
